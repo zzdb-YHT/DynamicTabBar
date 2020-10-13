@@ -1,0 +1,4 @@
+<!--pages/home3/home3.wxml-->
+<text>pages/home3/home3.wxml</text>
+
+<tab-bar list="{{tabBarList}}" selected="{{selected}}"/>

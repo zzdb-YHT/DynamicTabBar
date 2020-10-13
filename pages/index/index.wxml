@@ -1,0 +1,2 @@
+<button bindtap='tab1'>进入首页</button>
+<button bindtap='tab2'>进入我的</button>

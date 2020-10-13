@@ -1,0 +1,5 @@
+<!--pages/index1/index1.wxml-->
+<text>pages/index1/index1.wxml</text>
+
+<tab-bar list="{{tabBarList}}" selected="{{selected}}"/>
+
